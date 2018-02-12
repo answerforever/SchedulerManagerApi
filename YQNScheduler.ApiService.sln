@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YQNScheduler.ApiService", "YQNScheduler.ApiService\YQNScheduler.ApiService.csproj", "{BAC98F7C-5C56-46A6-AAC2-023018FFCB9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YQNScheduler.DomainService", "YQNScheduler.DomainService\YQNScheduler.DomainService.csproj", "{27CF6792-3287-4AD0-9A90-6B565DDDBF3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC98F7C-5C56-46A6-AAC2-023018FFCB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC98F7C-5C56-46A6-AAC2-023018FFCB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC98F7C-5C56-46A6-AAC2-023018FFCB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC98F7C-5C56-46A6-AAC2-023018FFCB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CF6792-3287-4AD0-9A90-6B565DDDBF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CF6792-3287-4AD0-9A90-6B565DDDBF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CF6792-3287-4AD0-9A90-6B565DDDBF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CF6792-3287-4AD0-9A90-6B565DDDBF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB51868C-BE2E-4EF6-AB7C-0A68978F233B}
+	EndGlobalSection
+EndGlobal

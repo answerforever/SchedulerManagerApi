@@ -1,0 +1,8 @@
+/.vs
+/YQNScheduler.ApiService/App_Data
+/YQNScheduler.ApiService/bin
+/YQNScheduler.ApiService/obj
+/YQNScheduler.ApiService/Web.Debug.config
+/YQNScheduler.ApiService/Web.Release.config
+/YQNScheduler.DomainService/obj
+/YQNScheduler.DomainService/bin
